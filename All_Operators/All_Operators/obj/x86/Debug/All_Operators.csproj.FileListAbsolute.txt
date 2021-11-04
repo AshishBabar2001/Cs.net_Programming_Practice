@@ -1,0 +1,5 @@
+F:\Console Application For Collage Studies\All_Operators\All_Operators\obj\x86\Debug\All_Operators.csprojResolveAssemblyReference.cache
+F:\Console Application For Collage Studies\All_Operators\All_Operators\bin\Debug\All_Operators.exe
+F:\Console Application For Collage Studies\All_Operators\All_Operators\bin\Debug\All_Operators.pdb
+F:\Console Application For Collage Studies\All_Operators\All_Operators\obj\x86\Debug\All_Operators.exe
+F:\Console Application For Collage Studies\All_Operators\All_Operators\obj\x86\Debug\All_Operators.pdb
