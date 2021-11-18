@@ -1,0 +1,5 @@
+F:\Console Application For Collage Studies\Base_Class_And_Derived_Class\Base_Class_And_Derived_Class\bin\Debug\Base_Class_And_Derived_Class.exe
+F:\Console Application For Collage Studies\Base_Class_And_Derived_Class\Base_Class_And_Derived_Class\bin\Debug\Base_Class_And_Derived_Class.pdb
+F:\Console Application For Collage Studies\Base_Class_And_Derived_Class\Base_Class_And_Derived_Class\obj\x86\Debug\Base_Class_And_Derived_Class.exe
+F:\Console Application For Collage Studies\Base_Class_And_Derived_Class\Base_Class_And_Derived_Class\obj\x86\Debug\Base_Class_And_Derived_Class.pdb
+F:\Console Application For Collage Studies\Base_Class_And_Derived_Class\Base_Class_And_Derived_Class\obj\x86\Debug\Base_Class_And_Derived_Class.csprojResolveAssemblyReference.cache
