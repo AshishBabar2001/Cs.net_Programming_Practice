@@ -1,0 +1,4 @@
+F:\Console Application For Collage Studies\Collage_Website\Collage_Website\bin\Collage_Website.dll
+F:\Console Application For Collage Studies\Collage_Website\Collage_Website\bin\Collage_Website.pdb
+F:\Console Application For Collage Studies\Collage_Website\Collage_Website\obj\Debug\Collage_Website.dll
+F:\Console Application For Collage Studies\Collage_Website\Collage_Website\obj\Debug\Collage_Website.pdb
