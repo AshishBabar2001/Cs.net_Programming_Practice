@@ -1,0 +1,4 @@
+F:\Console Application For Collage Studies\Display_ Pattarn\Display_ Pattarn\bin\Debug\Display_ Pattarn.exe
+F:\Console Application For Collage Studies\Display_ Pattarn\Display_ Pattarn\bin\Debug\Display_ Pattarn.pdb
+F:\Console Application For Collage Studies\Display_ Pattarn\Display_ Pattarn\obj\x86\Debug\Display_ Pattarn.exe
+F:\Console Application For Collage Studies\Display_ Pattarn\Display_ Pattarn\obj\x86\Debug\Display_ Pattarn.pdb
