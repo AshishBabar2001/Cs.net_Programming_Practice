@@ -1,0 +1,5 @@
+F:\Console Application For Collage Studies\Display_Student_Information\Display_Student_Information\bin\Debug\Display_Student_Information.exe
+F:\Console Application For Collage Studies\Display_Student_Information\Display_Student_Information\bin\Debug\Display_Student_Information.pdb
+F:\Console Application For Collage Studies\Display_Student_Information\Display_Student_Information\obj\x86\Debug\Display_Student_Information.exe
+F:\Console Application For Collage Studies\Display_Student_Information\Display_Student_Information\obj\x86\Debug\Display_Student_Information.pdb
+F:\Console Application For Collage Studies\Display_Student_Information\Display_Student_Information\obj\x86\Debug\Display_Student_Information.csprojResolveAssemblyReference.cache
