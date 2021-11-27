@@ -1,0 +1,5 @@
+F:\Console Application For Collage Studies\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+F:\Console Application For Collage Studies\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+F:\Console Application For Collage Studies\Hello_World\Hello_World\obj\x86\Debug\Hello_World.exe
+F:\Console Application For Collage Studies\Hello_World\Hello_World\obj\x86\Debug\Hello_World.pdb
+F:\Console Application For Collage Studies\Hello_World\Hello_World\obj\x86\Debug\Hello_World.csprojResolveAssemblyReference.cache
