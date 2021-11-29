@@ -1,0 +1,5 @@
+F:\Console Application For Collage Studies\Insert_Update_Delete_Form\Insert_Update_Delete_Form\bin\Insert_Update_Delete_Form.dll
+F:\Console Application For Collage Studies\Insert_Update_Delete_Form\Insert_Update_Delete_Form\bin\Insert_Update_Delete_Form.pdb
+F:\Console Application For Collage Studies\Insert_Update_Delete_Form\Insert_Update_Delete_Form\obj\Debug\Insert_Update_Delete_Form.dll
+F:\Console Application For Collage Studies\Insert_Update_Delete_Form\Insert_Update_Delete_Form\obj\Debug\Insert_Update_Delete_Form.pdb
+F:\Console Application For Collage Studies\Insert_Update_Delete_Form\Insert_Update_Delete_Form\obj\Debug\Insert_Update_Delete_Form.csprojResolveAssemblyReference.cache
