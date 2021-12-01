@@ -1,0 +1,5 @@
+F:\Console Application For Collage Studies\Palindrome_Or_Not\Palindrome_Or_Not\bin\Debug\Palindrome_Or_Not.exe
+F:\Console Application For Collage Studies\Palindrome_Or_Not\Palindrome_Or_Not\bin\Debug\Palindrome_Or_Not.pdb
+F:\Console Application For Collage Studies\Palindrome_Or_Not\Palindrome_Or_Not\obj\x86\Debug\Palindrome_Or_Not.exe
+F:\Console Application For Collage Studies\Palindrome_Or_Not\Palindrome_Or_Not\obj\x86\Debug\Palindrome_Or_Not.pdb
+F:\Console Application For Collage Studies\Palindrome_Or_Not\Palindrome_Or_Not\obj\x86\Debug\Palindrome_Or_Not.csprojResolveAssemblyReference.cache
