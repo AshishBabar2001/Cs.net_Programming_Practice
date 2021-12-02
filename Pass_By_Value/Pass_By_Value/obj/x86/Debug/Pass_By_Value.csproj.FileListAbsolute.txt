@@ -1,0 +1,5 @@
+F:\Console Application For Collage Studies\Pass_By_Value\Pass_By_Value\bin\Debug\Pass_By_Value.exe
+F:\Console Application For Collage Studies\Pass_By_Value\Pass_By_Value\bin\Debug\Pass_By_Value.pdb
+F:\Console Application For Collage Studies\Pass_By_Value\Pass_By_Value\obj\x86\Debug\Pass_By_Value.exe
+F:\Console Application For Collage Studies\Pass_By_Value\Pass_By_Value\obj\x86\Debug\Pass_By_Value.pdb
+F:\Console Application For Collage Studies\Pass_By_Value\Pass_By_Value\obj\x86\Debug\Pass_By_Value.csprojResolveAssemblyReference.cache
