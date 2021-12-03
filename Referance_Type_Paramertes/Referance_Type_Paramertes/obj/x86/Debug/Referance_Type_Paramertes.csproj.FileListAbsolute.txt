@@ -1,0 +1,5 @@
+F:\Console Application For Collage Studies\Referance_Type_Paramertes\Referance_Type_Paramertes\bin\Debug\Referance_Type_Paramertes.exe
+F:\Console Application For Collage Studies\Referance_Type_Paramertes\Referance_Type_Paramertes\bin\Debug\Referance_Type_Paramertes.pdb
+F:\Console Application For Collage Studies\Referance_Type_Paramertes\Referance_Type_Paramertes\obj\x86\Debug\Referance_Type_Paramertes.exe
+F:\Console Application For Collage Studies\Referance_Type_Paramertes\Referance_Type_Paramertes\obj\x86\Debug\Referance_Type_Paramertes.pdb
+F:\Console Application For Collage Studies\Referance_Type_Paramertes\Referance_Type_Paramertes\obj\x86\Debug\Referance_Type_Paramertes.csprojResolveAssemblyReference.cache
