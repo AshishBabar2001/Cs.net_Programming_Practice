@@ -1,0 +1,5 @@
+F:\Console Application For Collage Studies\Single_Level_Inheritance\Single_Level_Inheritance\bin\Debug\Single_Level_Inheritance.exe
+F:\Console Application For Collage Studies\Single_Level_Inheritance\Single_Level_Inheritance\bin\Debug\Single_Level_Inheritance.pdb
+F:\Console Application For Collage Studies\Single_Level_Inheritance\Single_Level_Inheritance\obj\x86\Debug\Single_Level_Inheritance.exe
+F:\Console Application For Collage Studies\Single_Level_Inheritance\Single_Level_Inheritance\obj\x86\Debug\Single_Level_Inheritance.pdb
+F:\Console Application For Collage Studies\Single_Level_Inheritance\Single_Level_Inheritance\obj\x86\Debug\Single_Level_Inheritance.csprojResolveAssemblyReference.cache
