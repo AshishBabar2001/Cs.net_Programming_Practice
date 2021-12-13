@@ -1,0 +1,4 @@
+F:\Console Application For Collage Studies\Student_Registration_Form\Student_Registration_Form\bin\Student_Registration_Form.dll
+F:\Console Application For Collage Studies\Student_Registration_Form\Student_Registration_Form\bin\Student_Registration_Form.pdb
+F:\Console Application For Collage Studies\Student_Registration_Form\Student_Registration_Form\obj\Debug\Student_Registration_Form.dll
+F:\Console Application For Collage Studies\Student_Registration_Form\Student_Registration_Form\obj\Debug\Student_Registration_Form.pdb
