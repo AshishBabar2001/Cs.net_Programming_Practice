@@ -1,0 +1,5 @@
+F:\Console Application For Collage Studies\Swapping_By_Referance\Swapping_By_Referance\bin\Debug\Swapping_By_Referance.exe
+F:\Console Application For Collage Studies\Swapping_By_Referance\Swapping_By_Referance\bin\Debug\Swapping_By_Referance.pdb
+F:\Console Application For Collage Studies\Swapping_By_Referance\Swapping_By_Referance\obj\x86\Debug\Swapping_By_Referance.exe
+F:\Console Application For Collage Studies\Swapping_By_Referance\Swapping_By_Referance\obj\x86\Debug\Swapping_By_Referance.pdb
+F:\Console Application For Collage Studies\Swapping_By_Referance\Swapping_By_Referance\obj\x86\Debug\Swapping_By_Referance.csprojResolveAssemblyReference.cache
